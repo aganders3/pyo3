@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["wrap_pyfunction",""]],"struct":[["PyMethodDef",""]]});

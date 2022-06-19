@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["double",""],["othermod",""]],"mod":[["double",""],["othermod",""]],"struct":[["ModClass",""]]});

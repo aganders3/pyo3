@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["subclassing",""]],"mod":[["subclassing",""]],"struct":[["Subclassable",""]]});
